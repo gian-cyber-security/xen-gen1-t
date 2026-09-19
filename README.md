@@ -1,3 +1,16 @@
+---
+license: mit
+library_name: pytorch
+pipeline_tag: text-generation
+language:
+  - en
+tags:
+  - xens
+  - xen
+  - pytorch
+  - custom-architecture
+---
+
 # XEN-GEN1-T
 
 Standalone repository for the XEN-GEN1-T text model.
